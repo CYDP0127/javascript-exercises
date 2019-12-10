@@ -1,4 +1,4 @@
-const example
+// const example
 const number = 1;
 number = 2;
 
@@ -32,9 +32,10 @@ for(var i=0; i<10; i++){
   console.log(i);
 }
 console.log(i);
+const i = 1;
 
-
-for(let j=0; i<10; j++){
+for(let j=0; j<10; j++){
   console.log(j);
 }
 console.log(j);
+const j = 1;
