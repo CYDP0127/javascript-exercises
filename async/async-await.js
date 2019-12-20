@@ -1,7 +1,7 @@
 
 // Callback 예제
 function add5(a, callback) {
-  setTimeout(() => callback(a + 10), 100);
+  setTimeout(() => callback(a + 5), 100);
 }
 
 add5(10, function (res) { // add5가 입력받는 callback함수 정의 부분

@@ -1,0 +1,20 @@
+{
+  "name": "javascript-exercise",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CYDP0127/javascript-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CYDP0127/javascript-exercises/issues"
+  },
+  "homepage": "https://github.com/CYDP0127/javascript-exercises#readme",
+  "dependencies": {
+    "async": "^3.1.0"
+  }
+}
