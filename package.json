@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/CYDP0127/javascript-exercises#readme",
   "dependencies": {
-    "async": "^3.1.0"
+    "async": "^3.2.2"
   }
 }
